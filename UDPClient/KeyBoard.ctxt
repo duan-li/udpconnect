@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=prompt
+comment0.target=java.lang.String\ getString(java.lang.String)
+comment1.params=prompt
+comment1.target=double\ getDouble(java.lang.String)
+comment2.params=prompt
+comment2.target=int\ getInteger(java.lang.String)
+comment3.params=prompt
+comment3.target=java.time.LocalDate\ getLocalDate(java.lang.String)
+comment4.params=toPrint
+comment4.target=void\ println(java.lang.String)
+numComments=5
