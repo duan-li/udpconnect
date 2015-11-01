@@ -70,7 +70,7 @@ public class ClientThread implements Runnable
         try
         {
             
-            
+
             DatagramSocket clientSocket = new DatagramSocket();
             clientSocket.setSoTimeout(timeOut); 
            // String IpAddress= KeyBoard.getString("Please input the service IP");
